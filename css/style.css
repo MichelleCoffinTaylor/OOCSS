@@ -1,0 +1,49 @@
+/*---- Style Sheet ----*/
+
+/*---- html ----*/
+
+html{
+	background-color: black;	
+}
+
+/*---- Header ----*/
+h1 {
+	font-size: 24px;
+}
+/*---- Main ----*/
+
+main {
+	width: 70%;
+	height: 700px;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+#main-container {
+	margin: 0 auto;
+}
+#left-container {
+	width: 70%;
+}
+#right-container {
+	width: 30%;
+}
+.blog {
+	width: 100%;
+}
+.aside-blog {
+	width: 100%;
+}
+.float-left {
+	float: left;
+}
+.text-styling{
+	font-family: helvetica;
+}
+.headings {
+	font-size: 20px;
+}
+.subheadings {
+	font-size: 16px;
+}
+/*---- Footer ----*/
